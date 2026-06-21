@@ -13,7 +13,7 @@
 🌍 Greek 🇬🇷, based in France 🇫🇷<br>
 🎯 Sharpening **Next.js**, **TypeScript** & clean software architecture<br>
 🎮 Off-screen: movies, series and video-games<br>
-💻 [My Website](https://tacogreco.com/)
+💻 [My Website](https://statiris.dev/)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasios-statiris-770b39217/)
