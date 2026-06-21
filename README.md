@@ -1,3 +1,11 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Laravel+APIs+%2B+React+Native+apps;Greek+%F0%9F%87%AC%F0%9F%87%B7+based+in+France+%F0%9F%87%AB%F0%9F%87%B7)](https://tacogreco.com/)
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Opportunities-4DD9AC?style=for-the-badge&logo=briefcase&logoColor=black)
+
+</div>
+
 # 💫 About Me
 🚀 Full-Stack Developer building web & mobile apps with **Laravel** and **React Native**<br>
 🔭 Currently building **Laravel APIs** and an **Expo / React Native** app<br>
@@ -32,13 +40,16 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=taco-greco&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=taco-greco&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=taco-greco&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=taco-greco&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=taco-greco&icon=0&color=0)](https://visitcount.itsvg.in)
